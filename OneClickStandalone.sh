@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 read -t 5 -p "Enter Username: "  userInput
 
 echo "==================================================="
